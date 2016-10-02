@@ -13,4 +13,4 @@ This calculator will refrain from using the built-in mathematical operations at 
 # Current state of development
 Currently, it is under development using Python 3.
 The source code consists of 2 separate scripts: One for all the calculation functions (which can be imported as a module) and another for the GUI.
-Unfortunately, this calculator application is still in its very early stages that not even the very first version is finished; It (the very first version) is planned to be finished by the end of September 2016, and will be uploaded as soon as it is.
+Unfortunately, this calculator application is still in its very early stages that not even the very first version is finished; It (the very first version) is planned to be finished by mid-October 2016, and will be uploaded as soon as it is.
